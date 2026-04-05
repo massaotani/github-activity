@@ -1,4 +1,4 @@
-🚀 GitHub User Activity API
+#🚀 GitHub User Activity API
 A modern Spring Boot 4.0.5 REST API that acts as a proxy to fetch and format recent GitHub user activity. This project is part of the roadmap.sh backend challenges.
 
 🛠 Features
@@ -57,7 +57,6 @@ curl http://localhost:8080/api/github/massaotani
 Example Response:
 ```
 ```
-Plaintext
 - Pushed some commits to massaotani/task-manager-api
 - Created massaotani/task-manager-api
 - Starred spring-projects/spring-boot
