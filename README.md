@@ -1,5 +1,5 @@
 # 🚀 GitHub User Activity API
-A modern Spring Boot 4.0.5 REST API that acts as a proxy to fetch and format recent GitHub user activity. This project is part of the roadmap.sh backend challenges.
+A modern Spring Boot 4.0.5 REST API that acts as a proxy to fetch and format recent GitHub user activity. This project is part of the roadmap.sh backend challenges (https://roadmap.sh/projects/github-user-activity).
 
 🛠 Features
 RESTful Endpoint: Fetch activity via a clean GET request.
