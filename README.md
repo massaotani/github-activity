@@ -54,8 +54,8 @@ Example Request:
 
 ```bash
 curl http://localhost:8080/api/github/massaotani
-Example Response:
 ```
+Example Response:
 ```
 - Pushed some commits to massaotani/task-manager-api
 - Created massaotani/task-manager-api
