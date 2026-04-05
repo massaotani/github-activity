@@ -24,20 +24,20 @@ Build Tool: Maven
 ## 🚀 Getting Started
 Prerequisites
 
-JDK 25
+• JDK 25
 
-Maven 3.x
+• Maven 3.x
 
 Installation
 
-Clone the repository:
-
+1. Clone the repository:
 ```bash
 git clone https://github.com/massaotani/github-activity.git
 cd github-activity
 Run the application:
 ```
 
+2. Run the application:
 ```bash
 ./mvnw spring-boot:run
 ```
