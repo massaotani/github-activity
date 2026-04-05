@@ -1,4 +1,4 @@
-#🚀 GitHub User Activity API
+# 🚀 GitHub User Activity API
 A modern Spring Boot 4.0.5 REST API that acts as a proxy to fetch and format recent GitHub user activity. This project is part of the roadmap.sh backend challenges.
 
 🛠 Features
@@ -12,7 +12,7 @@ Robust Architecture: Implements a clean Controller-Service-Implementation patter
 
 Graceful Handling: Identifies "some" commits when specific GitHub payload data is abstracted.
 
-🏗 Tech Stack
+## 🏗 Tech Stack
 Framework: Spring Boot 4.0.5
 
 Language: Java 25
@@ -21,7 +21,7 @@ Client: Spring `RestClient`
 
 Build Tool: Maven
 
-🚀 Getting Started
+## 🚀 Getting Started
 Prerequisites
 
 JDK 25
@@ -43,7 +43,7 @@ Run the application:
 ```
 The server will start on `http://localhost:8080`.
 
-📡 API Usage
+## 📡 API Usage
 Get User Activity
 
 Fetches the last 10 public events for a specific GitHub user.
@@ -63,7 +63,7 @@ Example Response:
 - opened a new issue in some-repo/test
 ```
 
-📂 Project Structure
+## 📂 Project Structure
 `controller/`: Handles incoming HTTP requests.
 
 `service/`: Defines the business logic interface.
